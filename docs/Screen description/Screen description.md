@@ -8,11 +8,11 @@ For the description, I chose the *Points and Bonuses* section of the customer's 
 
 The screen consists of the following blocks:
 
-* *Ozon Points*. Here, you can see how many points you have accumulated by purchasing certain products or participating in Ozon and partner promotions. Points can be used to pay up to 25% of the cost of products.
+* **Ozon Points**. Here, you can see how many points you have accumulated by purchasing certain products or participating in Ozon and partner promotions. Points can be used to pay up to 25% of the cost of products.
 
-* *Ozon Miles*. Here are the bonuses you get for ticket purchases, hotel bookings, tours, or participation in promotions.
+* **Ozon Miles**. Here are the bonuses you get for ticket purchases, hotel bookings, tours, or participation in promotions.
 
-* *Seller Bonuses*. This block shows the bonuses received:
+* **Seller Bonuses**. This block shows the bonuses received:
   * for purchase of goods with a special symbol ![text][symbol];
   * through seller promotions;
   * for the first purchase.
@@ -21,11 +21,11 @@ The screen consists of the following blocks:
 
   You can exchange seller bonuses for Ozon points or miles in the special block *Exchange seller's bonuses*. Any quantity of bonuses from different sellers can be exchanged at once.
 
-* *Expiring Soon*. This block shows the points, bonuses, and miles that are about to expire.
+* **Expiring Soon**. This block shows the points, bonuses, and miles that are about to expire.
 
-* *History*. This block shows how many points, bonuses, and miles have been earned and spent.
+* **History**. This block shows how many points, bonuses, and miles have been earned and spent.
 
-* *FAQ*. Find answers to frequently asked questions about the Points and Bonuses section here.
+* **FAQ**. Find answers to frequently asked questions about the Points and Bonuses section here.
 
 <p align="center">
 <img src="/my-website/img/screen.jpeg" alt="screen" width="350px"/>
