@@ -74,7 +74,7 @@ const config = {
           },
       // Replace with your project's social card
       // image: 'img/docusaurus-social-card.jpg',
-      image: 'img/main-logo.png',
+      image: 'img/cover.png',
       navbar: {
         title: 'Садыков Александр',
         logo: {
