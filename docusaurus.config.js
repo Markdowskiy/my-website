@@ -9,8 +9,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Тестовое задание',
-  tagline: 'Тестовое задание на позицию Технический писатель',
+  tagline: 'на позицию Технический писатель',
   favicon: 'img/favicon.ico',
+  // favicon: 'img/main-logo.png',
 
   // Set the production url of your site here
   url: 'https://markdowskiy.github.io',
@@ -72,12 +73,14 @@ const config = {
             respectPrefersColorScheme: false,
           },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      // image: 'img/docusaurus-social-card.jpg',
+      image: 'img/main-logo.png',
       navbar: {
         title: 'Садыков Александр',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          // src: 'img/logo.svg',
+          src: 'img/main-logo.png',
         },
         items: [
           {
@@ -88,7 +91,12 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://t.me/nacifrax',
+            label: 'Telegram',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/Markdowskiy/my-website',
             label: 'GitHub',
             position: 'right',
           },
@@ -143,23 +151,7 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-//       docs: {
-//         docsPaginator: {
-//           includeNextPrev: false,
-//         }
-//       }
     }),
 };
-
-// module.exports = {
-//   themeConfig: {
-//     docs: {
-//       docsPaginator:{
-//         includeNextPrev: false,
-//       }
-//     }
-//   }
-// }
-
 
 export default config;
